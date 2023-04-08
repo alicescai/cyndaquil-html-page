@@ -1,0 +1,47 @@
+/* Set the background color to a warm orange */
+body {
+	background-color: #ffcc99;
+}
+
+/* Set the font to a fun, playful style */
+h1, h2 {
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+/* Set the font color to a deep red */
+h1 {
+	color: #8b0000;
+}
+
+/* Add a drop shadow to the headers to make them pop */
+h1, h2 {
+	text-shadow: 2px 2px 4px #000000;
+}
+
+/* Set the font size and line height for the paragraph text */
+p {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+/* Set the font color to a darker shade of orange */
+p {
+	color: #46280a;
+}
+
+/* Add a subtle background color to the unordered list */
+ul {
+	background-color: #ffe6cc;
+	padding: 10px;
+}
+
+/* Set the font size for the list items */
+li {
+	font-size: 14px;
+}
+
+/* Add a border around the image and round the corners */
+img {
+	border: 2px solid #ffcc99;
+	border-radius: 10px;
+}
